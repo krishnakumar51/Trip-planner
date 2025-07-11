@@ -1,8 +1,3 @@
-Here’s a clean and professional `README.md` tailored for your **Agentic Travel Planner Application** using LangGraph, FastAPI, and Streamlit:
-
----
-
-````markdown
 # 🌍 Agentic Travel Planner Application
 
 An AI-powered Travel Planning Assistant using **LangGraph**, **Groq LLMs**, **FastAPI**, and **Streamlit**. This app provides personalized trip itineraries, cost breakdowns, weather info, hotel and restaurant recommendations, and more — powered by agentic workflows and real-time tool integrations.
