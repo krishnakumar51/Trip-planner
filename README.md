@@ -50,7 +50,14 @@ uv pip install -r requirements.txt
 Create a `.env` file:
 
 ```env
-GROQ_API_KEY=your_groq_api_key
+OPENAI_API_KEY=""
+GROQ_API_KEY=""
+GOOGLE_API_KEY=""
+GPLACES_API_KEY=""
+FOURSQUARE_API_KEY=""
+TAVILAY_API_KEY=""
+OPENWEATHERMAP_API_KEY=""
+EXCHANGE_RATE_API_KEY=""
 ```
 
 ### 5. Run Backend (FastAPI)
@@ -156,9 +163,4 @@ git filter-repo --path .env --invert-paths
 
 This project is licensed under the MIT License.
 
-```
-
----
-
-Let me know if you want the `README.md` saved to a file or want badges (e.g., for license, Python version, or deployment).
 ```
